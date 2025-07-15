@@ -1,7 +1,7 @@
 ## Hi Folks! I'm Wilbert Lase 👋
+<img width="1584" height="396" alt="GITHUB" src="https://github.com/user-attachments/assets/135ff926-c3db-487d-aa86-9c7b652f4b3e" />
 
-<img src="https://private-user-images.githubusercontent.com/123614211/466329868-97c5767e-bc08-4007-8ce0-ee0ead94cbd5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI1NjAzMzksIm5iZiI6MTc1MjU2MDAzOSwicGF0aCI6Ii8xMjM2MTQyMTEvNDY2MzI5ODY4LTk3YzU3NjdlLWJjMDgtNDAwNy04Y2UwLWVlMGVhZDk0Y2JkNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNVQwNjEzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZGRhZDYyNjI3ODcwMzZiNTViZDE3NmEzZTI1NmUwODhmMjg4YjdhNDYxZGZkYzU0N2EyM2I4Njg4ZjRiMWNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LBxb-_HTUdsqMS2eJd7lhRWdFYD06wQd9hVfS9RipBM"
-**wilbertlase/wilbertlase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
